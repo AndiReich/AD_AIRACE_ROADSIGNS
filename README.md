@@ -2,7 +2,7 @@
 Blender and STL files for the AD_AIRACE Roadsigns
 
 ### Specs
-The sings are ~4cm in diameter.
+The signs are ~4cm in diameter.
 The total height is ~12cm.
 The base is ~6cm wide.
 
